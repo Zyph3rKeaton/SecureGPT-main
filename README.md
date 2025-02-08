@@ -135,12 +135,9 @@ The tool is for educational purpose only and the author does not condone any ill
 <!-- CONTACT -->
 ## Contact the Contributors!
 
-- Gelei Deng - gelei.deng@ntu.edu.sg
 - Víctor Mayoral Vilches - v.mayoralv@gmail.com
 - Keaton Hodgson - khodgs1@lsu.edu
 - Yi Liu - yi009@e.ntu.edu.sg
-- Peng Liu - liu_peng@i2r.a-star.edu.sg
-- Yuekang Li - yuekang.li@unsw.edu.au
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
