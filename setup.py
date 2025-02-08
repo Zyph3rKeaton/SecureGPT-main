@@ -8,9 +8,9 @@ with open(os.path.join(os.path.dirname(__file__), "requirements.txt")) as f:
 setup(
     name="securegpt",
     version="0.14.0",
-    description="PentestGPT, a GPT-empowered penetration testing tool",
+    description="SecureGPT, a GPT-empowered penetration testing tool",
     long_description="""
-    PentestGPT is a penetration testing tool empowered by ChatGPT.
+    SecureGPT is a penetration testing tool empowered by ChatGPT.
     It is designed to automate the penetration testing process. It
     is prototyped initially on top of ChatGPT and operate in an
     interactive mode to guide penetration testers in both overall
@@ -30,7 +30,7 @@ setup(
     license="MIT License",
     packages=["securegpt"] + find_packages(),
     # packages=find_packages(),
-    # scripts=['pentestgpt/main.py'],
+    # scripts=['securegpt/main.py'],
     install_requires=dependencies,
     entry_points={
         "console_scripts": [
